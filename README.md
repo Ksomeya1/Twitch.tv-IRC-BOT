@@ -1,6 +1,7 @@
 # Twitch.tv-IRC-BOT
 IRC Chat bot similar to NightBot or HnlBot
-This is a custom twitch chat IRC BOT using TMI.js and twitch command API with the help of Cheerio.js' framework
+This is a custom twitch chat IRC BOT using TMI.js, Cheerio.js, and mIRC to connect to Twitch's chat box.
+Familiarity with RegEx and IRC is a plus
 
 In order to make the bot work properly you must authenticate with Twitch by getting your Oauth token key from TMI's website. 
 
