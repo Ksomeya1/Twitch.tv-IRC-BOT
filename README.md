@@ -4,7 +4,7 @@ This is a custom twitch chat IRC BOT using TMI.js and twitch command API with th
 
 In order to make the bot work properly you must authenticate with Twitch by getting your Oauth token key from TMI's website. 
 
-1) You can copy git clone these files and everything will work besides the Oauth token which is unique to the websites session.
+1) You can git clone these files and everything will work besides the Oauth token which is unique to the websites session.
 
 2) After getting your unique Oauth replace the one within the folde.
 
